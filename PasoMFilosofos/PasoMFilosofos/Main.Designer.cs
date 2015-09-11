@@ -183,8 +183,11 @@
 			this.Controls.Add(this.lemus);
 			this.Controls.Add(this.arturo);
 			this.Controls.Add(this.viejo);
+			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
 			this.Icon = global::PasoMFilosofos.Properties.Resources.fork;
+			this.MinimumSize = new System.Drawing.Size(608, 643);
 			this.Name = "Main";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Filosofos comensales";
 			this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Main_FormClosed);
 			this.Load += new System.EventHandler(this.Main_Load);
