@@ -1,0 +1,9 @@
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\bin\Debug\PasoMFilosofos.exe.config
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\bin\Debug\PasoMFilosofos.exe
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\bin\Debug\PasoMFilosofos.pdb
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.csprojResolveAssemblyReference.cache
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.Form1.resources
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.Properties.Resources.resources
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.csproj.GenerateResource.Cache
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.exe
+c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.pdb
