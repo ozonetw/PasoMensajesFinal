@@ -26,6 +26,11 @@ namespace PasoMFilosofos
             Filosofo filosofo4 = new Filosofo(4, tenedores, evento_CambioEstado);
         }
 
+		private void Main_FormClosed(object sender, FormClosedEventArgs e)
+		{
+			Environment.Exit(0);
+		}
+
 		/// <summary>
 		/// Manejador de evento para cambio de estado de un proceso
 		/// </summary>

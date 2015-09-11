@@ -186,6 +186,7 @@
 			this.Icon = global::PasoMFilosofos.Properties.Resources.fork;
 			this.Name = "Main";
 			this.Text = "Filosofos comensales";
+			this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Main_FormClosed);
 			this.Load += new System.EventHandler(this.Main_Load);
 			((System.ComponentModel.ISupportInitialize)(this.estadoLemus)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.estadoPepe)).EndInit();
