@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Configuration;
 using System.Threading;
 
@@ -42,32 +38,23 @@ namespace PasoMFilosofos
 
             while (true)
             {
-                try
-                {
+                if (ManejadorEstado != null)
+                    ManejadorEstado(new Argumentos() { Estado = Estado.Pensando, IdProceso = id }, new EventArgs());
 
-                    if (ManejadorEstado != null)
-                        ManejadorEstado(new Argumentos() { Estado = Estado.Pensando, IdProceso = id }, new EventArgs());
+                tiempo = aleatorio.Next(1000, tiempoMaxPensar);
+                Thread.Sleep(tiempo);
 
-                    tiempo = aleatorio.Next(1000, tiempoMaxPensar);
-                    Thread.Sleep(tiempo);
+                if (ManejadorEstado != null)
+                    ManejadorEstado(new Argumentos() { Estado = Estado.Esperando, IdProceso = id }, new EventArgs());
 
-                    if (ManejadorEstado != null)
-                        ManejadorEstado(new Argumentos() { Estado = Estado.Esperando, IdProceso = id }, new EventArgs());
+                tenedores.Obtener(izquierda, derecha);
 
-                    tenedores.Obtener(izquierda, derecha);
+                if (ManejadorEstado != null)
+                    ManejadorEstado(new Argumentos() { Estado = Estado.Comiendo, IdProceso = id }, new EventArgs());
 
-                    if (ManejadorEstado != null)
-                        ManejadorEstado(new Argumentos() { Estado = Estado.Comiendo, IdProceso = id }, new EventArgs());
-
-                    tiempo = aleatorio.Next(1000, tiempoMaxComer);
-                    Thread.Sleep(tiempo);
-                    tenedores.Liberar(izquierda, derecha);
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine("Filósofo " + id + " error!");
-                    Console.WriteLine("Mensaje: " + e.Message);
-                }
+                tiempo = aleatorio.Next(1000, tiempoMaxComer);
+                Thread.Sleep(tiempo);
+                tenedores.Liberar(izquierda, derecha);
             }
         }
     }

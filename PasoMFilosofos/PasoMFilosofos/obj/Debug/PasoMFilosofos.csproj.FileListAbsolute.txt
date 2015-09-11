@@ -7,3 +7,12 @@ c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosof
 c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.csproj.GenerateResource.Cache
 c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.exe
 c:\users\edata\documents\visual studio 2013\Projects\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.pdb
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\bin\Debug\PasoMFilosofos.exe.config
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.exe
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.pdb
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\bin\Debug\PasoMFilosofos.exe
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\bin\Debug\PasoMFilosofos.pdb
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.Main.resources
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.Properties.Resources.resources
+C:\Users\Ricardo\Source\Repos\PasoMensajesFinal\PasoMFilosofos\PasoMFilosofos\obj\Debug\PasoMFilosofos.csproj.GenerateResource.Cache

@@ -118,22 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Hambre" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hambre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="thinking" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\thinking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Comiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Comiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arturo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\arturo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="burger_Png" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\burger_Png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Lemus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="lemus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Lemus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mitre" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -144,5 +135,17 @@
   </data>
   <data name="viejo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\viejo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fork" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fork.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Esperando" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\esperando.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamburguesa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\hamburguesa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pensando" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\pensando.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
